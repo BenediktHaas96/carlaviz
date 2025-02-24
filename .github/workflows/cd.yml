@@ -1,4 +1,4 @@
-name: CarlaViz Docker Depolyment
+name: CarlaViz Docker Deployment
 on:
   push:
     branches:
